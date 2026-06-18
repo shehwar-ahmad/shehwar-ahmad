@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 💻 Full-Stack Software Engineer building production-ready web applications for startups and SaaS companies
-- 🏗️ Currently **Founding Engineer at Tensor Zone**, owning architecture across frontend, backend, and AI
+- 🏗️ Currently **Founder at Tensor Zone**, owning architecture across frontend, backend, and AI
 - 🔧 I specialize in rescuing stalled MVPs and transforming problematic codebases into scalable, maintainable products
 - 🧪 Strong focus on engineering quality: type safety, automated testing, code reviews, and measurable performance wins
 - 🌍 Based in Lahore, Pakistan and open to opportunities
